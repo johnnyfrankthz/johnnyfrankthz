@@ -4,7 +4,7 @@ I'm 22 years old.
 📝 I am a student of networks and also programming.
 
 - I currently work at Lyberty Internet - Angatuba SP
-- Learning C+, Linux and studying more about routers.
+- Learning C++, Linux and studying more about routers.
 
  📫 U can find me at - noc@lybertynet.com.br
 
